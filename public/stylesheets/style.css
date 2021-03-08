@@ -1,0 +1,9 @@
+body {
+  margin: 150px;
+  padding: 150px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.errorMessage {
+  color: red;
+}
